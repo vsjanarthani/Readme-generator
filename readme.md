@@ -1,36 +1,39 @@
-# Readme Generator
+
+# Readme Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
- This repo contains code to generate a readme.md document by obtaining user input and generating the file using node.js and inquirer package.
+This repo contains code to generate a readme.md document by obtaining user input and generating the file using node.js and inquirer package.
 
 ## Languages
 JavaScript,ES6,Node
 
 ## Table of Contents
-* [`Installation`] (#installation:)
-* [Usage] (#usage:)
-* [License] (#license:)
-* [Contributing] (#contributing:)
-* [Tests] (#tests:)
-* [Questions] (#questions:)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributing](#Contributing)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
-### Installation:
+### Installation :
 Inorder to install the necessary dependencies, run the following command in your terminal
+
 ```npm install```
 
-### Usage:
-Every time the code is run it will overwrite the readme file inside dist folder. If there is no existing readme document then it will generate one newly.
+### Usage :
+Every time you run the code, it will overwrite the readme file that is inside **dist** folder. If there is no existing readme document then it will generate one newly.
 
-### License:
+### License :
 MIT
 
-### Contributing:
-none
+### Contributing :
+no contributions at the moment
 
-### Tests:
-Inorder to test, run the following command in your terminal
-```none```
+### Tests :
+Test not setup.
 
-### Questions:
-If you have any questions, please reach out to me (Janarthani) on my email janarthani.vs@gmail.com
-My github profile [GitHub] (https://github.com/vsjanarthani)
+### Questions :
+If you have any questions, please reach out to 
+Author: (Janarthani V S)
+Email 📧: janarthani.vs@gmail.com
+Author's github profile: [GitHub](https://github.com/vsjanarthani)

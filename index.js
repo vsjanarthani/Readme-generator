@@ -21,12 +21,12 @@ const promptUser = () => {
       {
         type: 'input',
         name: 'github',
-        message: 'Enter your GitHub Username (Required)',
+        message: "Please enter author's GitHub username (Required)",
         validate: githubInput => {
           if (githubInput) {
             return true;
           } else {
-            console.log('Please enter your GitHub username!');
+            console.log("Please enter author's GitHub username!");
             return false;
           }
         }
@@ -34,12 +34,12 @@ const promptUser = () => {
       {
         type: 'input',
         name: 'email',
-        message: 'Enter your email address (Required)',
+        message: "Please enter author's email address!(Required)",
         validate: emailInput => {
           if (emailInput) {
             return true;
           } else {
-            console.log('Please enter your email address!');
+            console.log("Please enter author's email address!");
             return false;
           }
         }
@@ -60,7 +60,7 @@ const promptUser = () => {
       {
         type: 'input',
         name: 'description',
-        message: 'Provide a description of yout project (Required)',
+        message: 'Provide a description of your project (Required)',
         validate: descriptionInput => {
           if (descriptionInput) {
             return true;
@@ -90,7 +90,7 @@ const promptUser = () => {
         type: 'list',
         name: 'license',
         message: 'Choose a license for your project',
-        choices: ['MIT', 'GNU GPLv3', 'GNU AGPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache License 2.0', 'Boost Software License 1.0', 'The Unlicense', 'None']
+        choices: ['MIT', 'ISC', 'IBM Public License Version 1.0', 'GNU GPLv3', 'GNU AGPLv3', 'GNU LGPLv3', 'Mozilla Public License 2.0', 'Apache 2.0', 'Boost Software License 1.0', 'The Unlicense', 'none']
       },
       {
         type: 'input',
