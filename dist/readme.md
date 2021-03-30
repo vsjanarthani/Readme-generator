@@ -1,8 +1,8 @@
 
-# Readme Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Read Me Generator [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
 ## Description
-This repo contains code to generate a readme.md document by obtaining user input and generating the file using node.js and inquirer package.
+This Repo contains code to generate a readme file by accepting user input using node.js and inquirer package.
 
 ## Languages
 JavaScript,ES6,Node
@@ -21,22 +21,23 @@ Inorder to install the necessary dependencies, run the following command in your
 ```npm install```
 
 ### Usage :
-Every time you run the code, it will overwrite the readme file that is inside **dist** folder. If there is no existing readme document then it will generate one newly.
+
 
 ### License :
 This application is covered under the following license. For more information on license's conditions, permissions and limitations please visit [here](https://choosealicense.com/licenses/) 
-<br> **MIT**
+
+**ISC**
 
 ### Contributing :
-None at the moment
+Currently there are no contributions.
 
 ### Tests :
 Inorder to test, run the following command in your terminal
 
-```command not set up for testing```
+```none```
 
 ### Questions :
-If you have any questions, please reach out to 
-Author: (Janarthani)
-Email 📧: janarthani.vs@gmail.com
+If you have any questions, please reach out to <br>
+Author: Janarthani<br>
+Email 📧: janarthani.vs@gmail.com <br>
 Author's github profile: [GitHub](https://github.com/vsjanarthani)

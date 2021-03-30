@@ -79,7 +79,7 @@ const promptUser = () => {
       {
         type: 'input',
         name: 'installations',
-        message: 'Enter the Command for Installation & running'
+        message: 'Enter the Command for Installation'
       },
       {
         type: 'input',
@@ -100,7 +100,7 @@ const promptUser = () => {
       {
         type: 'input',
         name: 'tests',
-        message: 'Command to run tests'
+        message: 'Enter the Command to run tests'
       }
     ]);
   };

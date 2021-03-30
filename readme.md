@@ -5,7 +5,7 @@
 This repo contains code to generate a readme.md document by obtaining user input and generating the file using node.js and inquirer package.
 
 ## Languages
-JavaScript,ES6,Node
+JavaScript, ES6, Node
 
 ## Table of Contents
 * [Installation](#Installation)
@@ -22,7 +22,8 @@ Inorder to install the necessary dependencies and to generate the file, run the 
 ```node index```
 
 ### Usage :
-Every time you run the code, it will overwrite the readme file that is inside **dist** folder. If there is no existing readme document then it will generate one newly.
+Every time you run the code, it will overwrite the readme file that is inside **dist** folder. If there is no existing readme document then it will generate one newly. <br>
+Please find the demo video here [Demo](https://drive.google.com/file/d/1IdAtGvukqb3s4QmYzJUrxC_Mdn5qZaef/view).
 
 ### License :
 MIT
@@ -35,6 +36,6 @@ Test not setup.
 
 ### Questions :
 If you have any questions, please reach out to 
-Author: (Janarthani V S)
-Email 📧: janarthani.vs@gmail.com
+Author: Janarthani V S <br>
+Email 📧: janarthani.vs@gmail.com <br>
 Author's github profile: [GitHub](https://github.com/vsjanarthani)
