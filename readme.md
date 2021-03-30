@@ -16,9 +16,10 @@ JavaScript,ES6,Node
 * [Questions](#Questions)
 
 ### Installation :
-Inorder to install the necessary dependencies, run the following command in your terminal
+Inorder to install the necessary dependencies and to generate the file, run the following commands in your terminal
 
-```npm install```
+```npm install``` <br>
+```node index```
 
 ### Usage :
 Every time you run the code, it will overwrite the readme file that is inside **dist** folder. If there is no existing readme document then it will generate one newly.
