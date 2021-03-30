@@ -54,7 +54,7 @@ ${readmeInput.usage}
 ### License :
 This application is covered under the following license. For more information on license's conditions, permissions and limitations please visit [here](https://choosealicense.com/licenses/) 
 
-<br> **${readmeInput.license}**
+**${readmeInput.license}**
 
 ### Contributing :
 ${readmeInput.contributing}
@@ -65,9 +65,9 @@ Inorder to test, run the following command in your terminal
 \`\`\`${readmeInput.tests}\`\`\`
 
 ### Questions :
-If you have any questions, please reach out to 
-Author: (${readmeInput.author})
-Email 📧: ${readmeInput.email}
+If you have any questions, please reach out to <br>
+Author: ${readmeInput.author} <br>
+Email 📧: ${readmeInput.email} <br>
 Author's github profile: [GitHub](https://github.com/${readmeInput.github})
 `
 }
