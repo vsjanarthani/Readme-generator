@@ -7,12 +7,12 @@
 JavaScript,ES6,Node
 
 ## Table of Contents
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [License] (#license)
-* [Contributing] (#contributing)
-* [Tests] (#tests)
-* [Questions] (#questions)
+* [`Installation`] (#installation:)
+* [Usage] (#usage:)
+* [License] (#license:)
+* [Contributing] (#contributing:)
+* [Tests] (#tests:)
+* [Questions] (#questions:)
 
 ### Installation:
 Inorder to install the necessary dependencies, run the following command in your terminal
