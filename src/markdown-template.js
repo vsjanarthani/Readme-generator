@@ -52,7 +52,9 @@ Inorder to install the necessary dependencies, run the following command in your
 ${readmeInput.usage}
 
 ### License :
-${readmeInput.license}
+This application is covered under the following license. For more information on license's conditions, permissions and limitations please visit [here](https://choosealicense.com/licenses/) 
+
+<br> **${readmeInput.license}**
 
 ### Contributing :
 ${readmeInput.contributing}

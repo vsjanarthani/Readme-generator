@@ -8,6 +8,7 @@ const writeFile = fileContent => {
         reject(err);
         return;
       }
+      console.log('Readme file generated inside dist folder');
       resolve({
         ok: true,
         message: 'Readme document Generated!'

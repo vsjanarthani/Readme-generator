@@ -24,18 +24,19 @@ Inorder to install the necessary dependencies, run the following command in your
 Every time you run the code, it will overwrite the readme file that is inside **dist** folder. If there is no existing readme document then it will generate one newly.
 
 ### License :
-MIT
+This application is covered under the following license. For more information on license's conditions, permissions and limitations please visit [here](https://choosealicense.com/licenses/) 
+<br> **MIT**
 
 ### Contributing :
-no contributions at the moment
+None at the moment
 
 ### Tests :
 Inorder to test, run the following command in your terminal
 
-```test not setup```
+```command not set up for testing```
 
 ### Questions :
 If you have any questions, please reach out to 
-Author: (Janarthani V S)
+Author: (Janarthani)
 Email 📧: janarthani.vs@gmail.com
 Author's github profile: [GitHub](https://github.com/vsjanarthani)
