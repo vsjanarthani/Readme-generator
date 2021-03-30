@@ -19,6 +19,7 @@ ${readmeInput.languages}
 
 ### Installation:
 Inorder to install the necessary dependencies, run the following command in your terminal
+
 \`\`\`${readmeInput.installations}\`\`\`
 
 ### Usage:
@@ -32,6 +33,7 @@ ${readmeInput.contributing}
 
 ### Tests:
 Inorder to test, run the following command in your terminal
+
 \`\`\`${readmeInput.tests}\`\`\`
 
 ### Questions:
@@ -39,3 +41,5 @@ If you have any questions, please reach out to me (${readmeInput.author}) on my 
 My github profile [GitHub] (https://github.com/${readmeInput.github})
 `
 }
+
+module.exports = generateMD;

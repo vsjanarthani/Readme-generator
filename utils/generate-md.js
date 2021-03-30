@@ -8,7 +8,6 @@ const writeFile = fileContent => {
         reject(err);
         return;
       }
-
       resolve({
         ok: true,
         message: 'Readme document Generated!'

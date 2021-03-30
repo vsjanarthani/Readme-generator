@@ -1,7 +1,8 @@
 const inquirer = require('inquirer');
 const generateMD = require('./src/markdown-template');
-const {writeFile} = require('./utils/generate-site');
+const writeFile = require('./utils/generate-md');
 
+// Getting user input
 const promptUser = () => {
     return inquirer.prompt([
       {
@@ -103,7 +104,6 @@ const promptUser = () => {
       }
     ]);
   };
-
 
   promptUser()
   .then(readmeInput => {
