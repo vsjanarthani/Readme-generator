@@ -15,26 +15,26 @@ JavaScript, ES6, Node
 * [Tests](#Tests)
 * [Questions](#Questions)
 
-### Installation :
+### Installation
 Inorder to install the necessary dependencies and to generate the file, run the following commands in your terminal
 
 ```npm install``` <br>
 ```node index```
 
-### Usage :
+### Usage
 Every time you run the code, it will overwrite the readme file that is inside **dist** folder. If there is no existing readme document then it will generate one newly. <br>
 Please find the demo video here [Demo](https://drive.google.com/file/d/1IdAtGvukqb3s4QmYzJUrxC_Mdn5qZaef/view).
 
-### License :
+### License
 MIT
 
-### Contributing :
+### Contributing
 no contributions at the moment
 
-### Tests :
+### Tests
 Test not setup.
 
-### Questions :
+### Questions
 If you have any questions, please reach out to 
 Author: Janarthani V S <br>
 Email 📧: janarthani.vs@gmail.com <br>
