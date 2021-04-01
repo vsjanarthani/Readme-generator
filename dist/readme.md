@@ -2,7 +2,7 @@
 # Readme Generator [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
- This Repo contains code to generate a readme file by accepting user input using node.js and inquirer package.
+This repo contains code to generate a readme.md document by obtaining user input and generating the file using node.js and inquirer package.
 
 ## Languages
 JavaScript,ES6,Node
@@ -15,28 +15,28 @@ JavaScript,ES6,Node
 * [Tests](#Tests)
 * [Questions](#Questions)
 
-### Installation :
+### Installation
 Inorder to install the necessary dependencies, run the following command in your terminal
 
 ```npm install```
 
-### Usage :
+### Usage
 Every time you run the code, it will overwrite the readme file that is inside **dist** folder. If there is no existing readme document then it will generate one newly. <br>
 
-### License :
+### License
 This application is covered under the following license. For more information on license's conditions, permissions and limitations please visit [here](https://choosealicense.com/licenses/) 
 
 **GNU GPLv3**
 
-### Contributing :
-None at the moment
+### Contributing 
+No contribution at the moment
 
-### Tests :
+### Tests
 Inorder to test, run the following command in your terminal
 
 ```test not set up```
 
-### Questions :
+### Questions
 If you have any questions, please reach out to <br>
 Author: Janarthani <br>
 Email 📧: janarthani.vs@gmail.com <br>

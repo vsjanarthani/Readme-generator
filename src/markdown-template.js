@@ -43,28 +43,28 @@ ${readmeInput.languages}
 * [Tests](#Tests)
 * [Questions](#Questions)
 
-### Installation :
+### Installation
 Inorder to install the necessary dependencies, run the following command in your terminal
 
 \`\`\`${readmeInput.installations}\`\`\`
 
-### Usage :
+### Usage
 ${readmeInput.usage}
 
-### License :
+### License
 This application is covered under the following license. For more information on license's conditions, permissions and limitations please visit [here](https://choosealicense.com/licenses/) 
 
 **${readmeInput.license}**
 
-### Contributing :
+### Contributing 
 ${readmeInput.contributing}
 
-### Tests :
+### Tests
 Inorder to test, run the following command in your terminal
 
 \`\`\`${readmeInput.tests}\`\`\`
 
-### Questions :
+### Questions
 If you have any questions, please reach out to <br>
 Author: ${readmeInput.author} <br>
 Email 📧: ${readmeInput.email} <br>
